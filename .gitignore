@@ -16,6 +16,9 @@ obj/
 *.sqlite
 *.sdf
 
+# Publish output
+publish/
+
 # Temporary / build artifacts
 *.tmp
 *.log
