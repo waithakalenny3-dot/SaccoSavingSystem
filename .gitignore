@@ -1,0 +1,27 @@
+# Visual Studio / .NET
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+*.deps.json
+*.runtimeconfig.json
+
+# Local database
+*.db
+*.sqlite
+*.sdf
+
+# Temporary / build artifacts
+*.tmp
+*.log
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
